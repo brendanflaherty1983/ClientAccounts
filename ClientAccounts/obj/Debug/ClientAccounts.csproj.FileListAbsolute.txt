@@ -1,0 +1,5 @@
+c:\users\brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccounts\bin\Debug\ClientAccounts.exe.config
+c:\users\brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccounts\bin\Debug\ClientAccounts.exe
+c:\users\brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccounts\bin\Debug\ClientAccounts.pdb
+c:\users\brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccounts\obj\Debug\ClientAccounts.exe
+c:\users\brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccounts\obj\Debug\ClientAccounts.pdb

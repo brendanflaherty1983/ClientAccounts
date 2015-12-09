@@ -1,0 +1,7 @@
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\bin\Debug\ClientAccountTests.dll
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\bin\Debug\ClientAccountTests.pdb
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\bin\Debug\ClientAccounts.exe
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\bin\Debug\ClientAccounts.pdb
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\obj\Debug\ClientAccountTests.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\obj\Debug\ClientAccountTests.dll
+C:\Users\Brendan\documents\visual studio 2013\Projects\ClientAccounts\ClientAccountTests\obj\Debug\ClientAccountTests.pdb
