@@ -27,18 +27,14 @@ namespace ClientAccounts
                         EditAccounts(console);
                         break;
                     case 3:
-                        {
-                            ViewAccounts(console);
-                        }
+                        ViewAccounts(console);
                         break;
                     case 4:
                         DeleteAccounts(console);
                         break;
-
                     case 5:
                         SaveAccountsToFile(console);
                         break;
-
                     case 6:
                     default:
                         return;
