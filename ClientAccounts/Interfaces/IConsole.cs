@@ -15,7 +15,7 @@ namespace ClientAccounts.Interfaces
 
     public class ConsoleWrapperProduction : IConsole
     {
-        public List<String> LinesToRead = new List<String>();
+        public List<string> LinesToRead = new List<string>();
 
         public void Write(string message)
         {

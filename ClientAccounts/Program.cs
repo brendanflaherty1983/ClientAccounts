@@ -1,7 +1,5 @@
 ﻿using ClientAccounts.Interfaces;
 using System;
-using System.Runtime.Serialization.Json;
-using System.Text;
 
 namespace ClientAccounts
 {
@@ -60,7 +58,7 @@ namespace ClientAccounts
             while (true)
             {
                 string selection = console.ReadLine();
-                if (!Int32.TryParse(selection, out m))
+                if (!int.TryParse(selection, out m))
                 {
                     console.WriteLine("Invalid selection");
                 }
